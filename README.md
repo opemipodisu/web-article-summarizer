@@ -32,4 +32,4 @@ This project was created using two JigsawStack APIs: the **AI Web Scraper API** 
 
 ## Demo
 
-You can watch a demo of this project and get an explanation of how it was built [here](#). 
+You can watch a demo of this project and get an explanation of how it was built [here](https://streamable.com/xqf9i1). 
